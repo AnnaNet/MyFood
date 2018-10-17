@@ -1,5 +1,9 @@
-import $ from 'jquery';
+/*import $ from 'jquery';*/
 import 'bootstrap';
 
-console.log ('Hello!');
+$(document).ready(() => {
+  console.log ('Hello!');
 
+  $('.tmp').css({'background-color': 'blue'});
+  $('.tmp').css('background-color', 'green');
+});
