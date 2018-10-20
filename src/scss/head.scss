@@ -1,11 +1,13 @@
 .hat {
-  //height: 500px;
   background-image: url(../images/head.png);
-  //background-overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 body {
   margin: 0;
+}
+
+.paper {
+  margin: 2.5em 0 0 0;
 }
