@@ -30,6 +30,14 @@ body {
 .foot {
   background-color: #f7e1d1; }
 
+.contacts {
+  padding: 1.5em;
+  align-items: center;
+  margin: auto;
+  font-size: 1.5em;
+  background-color: darkseagreen !important;
+  margin-bottom: 1.5em; }
+
 /*!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
